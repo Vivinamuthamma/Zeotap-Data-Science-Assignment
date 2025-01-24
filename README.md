@@ -1,0 +1,1 @@
+This project provides a comprehensive customer segmentation and product clustering analysis, helping businesses better understand their customers and products. By applying clustering techniques, businesses can optimize marketing strategies, improve product offerings, and drive growth by making data-driven decisions.
